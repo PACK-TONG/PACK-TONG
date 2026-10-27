@@ -1,0 +1,16 @@
+PACK — Tienda de mochilas
+
+Archivos:
+- index.html: página con las 5 secciones (Inicio, Productos, Ofertas, Nosotros y Contacto).
+- style.css: estilos y adaptación a celular.
+- script.js: carrito que se abre, muestra productos, calcula el total y permite quitar productos.
+- imagenes/: carpeta para colocar las cinco fotos originales.
+
+Coloca las imágenes dentro de la carpeta imagenes y conserva exactamente estos nombres:
+1. 2f559e86-4cab-4bef-8324-281387bcf949.jpg
+2. 8dbf5aad-6bad-406a-ba4d-60e066bc9ab9.jpg
+3. 35d1f49e-7dd6-4fc9-a5f0-fa375f43bc28.jpg
+4. f5c5ce27-06cc-4256-9be9-e35fdd49cde7.jpg
+5. ffda4f98-02e7-4b32-89c1-732a3dd34fba.jpg
+
+Abre index.html en tu navegador. Los precios son de ejemplo y el botón Continuar solo muestra un mensaje; no se hacen pagos reales.
